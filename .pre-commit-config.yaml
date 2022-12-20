@@ -5,7 +5,7 @@ repos:
     -   id: trailing-whitespace
     -   id: check-yaml
     -   id: check-json
--   repo: https://github.com/PyCQA/isort
+-   repo: https://github.com/pycqa/isort
     rev: 5.10.1
     hooks:
     - id: isort
